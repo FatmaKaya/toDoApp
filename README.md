@@ -24,9 +24,9 @@ verileri gösterecek. İhtiyaç halinde ön yüzde Bootstrap ve Jquery vb. kulla
 - Backend servisinde Facade, Factory, Proxy, Strategy veya Adapter vb. gibi patternleri ile 
 geliştirme yapılması tercih edilir.
 
-Provider 1:
+- Provider 1:
 http://www.mocky.io/v2/5d47f24c330000623fa3ebfa
-Provider 2:
+- Provider 2:
 http://www.mocky.io/v2/5d47f235330000623fa3ebf7
 
 #### Kurulum
